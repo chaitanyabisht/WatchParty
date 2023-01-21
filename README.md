@@ -1,5 +1,9 @@
 <h1 align="center">Welcome to WatchParty👋</h1>
 
+## Introduction
+
+I contributed to development of this extension as a part of FOSS Overflow 2021, an annual open-source coding festival at our college.
+
 ## 🤔 Problem
 
 We sometimes want to connect to our friends and family who might be living far away from us. Watching videos together is one of the best ways to spend time together. So this chrome extension allows people to watch content together with everyone watching the same content on everyone's screen
