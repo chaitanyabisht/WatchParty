@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I contributed to development of this extension as a part of FOSS Overflow 2021, an annual open-source coding festival at our college.
+I contributed to development of this extension as a part of [FOSS Overflow 2021](https://fossoverflow.dev/), an annual open-source coding festival at our college.
 
 ## 🤔 Problem
 
